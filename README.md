@@ -1,4 +1,4 @@
-About Me
+
 Hi! 👋 I'm Miguel Atarés, a Biotechnologist 🧪 with a Master's degree in Food Quality and Safety 🍫. 
 I've been working in R&D in the food industry, focusing on innovation 💡, process optimization ⚙️, and quality assurance ✅.
 
