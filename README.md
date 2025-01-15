@@ -1,8 +1,6 @@
 
-Hi! 👋 I'm Miguel Atarés, a Biotechnologist 🧪 with a Master's degree in Food Quality and Safety 🍫. 
-I've been working in R&D in the food industry, focusing on innovation 💡, process optimization ⚙️, and quality assurance ✅.
+¡Hola! 👋 Soy Miguel Atarés, Biotecnólogo 🧪 con un Máster en Calidad y Seguridad Alimentaria 🍫. He trabajado en I+D dentro de la industria alimentaria, centrándome en innovación 💡, optimización de procesos ⚙️ y aseguramiento de la calidad ✅.
 
-Currently, I'm expanding my skill set to transition into the field of Data Analysis 📊, combining my scientific background with programming 💻 and data-driven decision-making 🔍.
-I'm passionate about learning new technologies 🚀 and leveraging data to solve real-world problems 🌍.
+Actualmente, estoy ampliando mis habilidades para hacer una transición al campo del Análisis de Datos 📊, combinando mi formación científica con programación 💻 y la toma de decisiones basada en datos 🔍. Me apasiona aprender nuevas tecnologías 🚀 y aprovechar los datos para resolver problemas del mundo real 🌍.
 
-Let's connect and grow together! 🤝
+¡Conectemos y crezcamos juntos! 🤝
